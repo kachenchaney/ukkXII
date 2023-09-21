@@ -49,3 +49,40 @@ tacp
 
 
   ![Screenshot 2023-09-21 164351](https://github.com/kachenchaney/ukkXII/assets/111231552/13fdf8e6-da6f-46f4-9cc5-dc577fc22ec7)
+
+
+### PEERRING CONNECION
+
+
+  ![Screenshot 2023-09-21 164604](https://github.com/kachenchaney/ukkXII/assets/111231552/bc92fe4b-60b9-4937-80dd-3456dd10c1ff)
+
+
+1.	kasih nama sesuai soal 
+2.	req vpc 1
+3.	acc vpc 2
+4.	name tag “Name” Tag “nama peering”
+5.	klik pcx.. 
+6.	action accept req
+
+  
+  ![Screenshot 2023-09-21 164715](https://github.com/kachenchaney/ukkXII/assets/111231552/a626afd2-ecb6-4ebc-9361-7a9e31fa38a8)
+
+
+### ROUTE TABLES 1
+
+1.	cari vpc 1 yang private
+2.	klik route
+3.	klik edit
+4.	add route (masukin ip vpc 2 dan pilih peering connection)
+
+
+  ![Screenshot 2023-09-21 164741](https://github.com/kachenchaney/ukkXII/assets/111231552/07ba3bd2-7522-4760-b76e-c9320bf954ab)
+
+
+### ROUTE TABLES 2
+
+1.	cari vpc 2 yang private
+2.	klik route
+3.	klik edit
+4.	add route (masukin ip vpc 1 dan pilih peering connection)
+
