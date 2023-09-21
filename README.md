@@ -16,8 +16,8 @@ tacp
 
 ---
 membuat vpc yang pertama
-pilih vpc and more
-
-![Screenshot 2023-09-21 163937](https://github.com/kachenchaney/ukkXII/assets/111231552/97371baa-f9d3-41d5-ad5a-5173979d05fe)
+pilih vpc and more  
+  
+  ![Screenshot 2023-09-21 163937](https://github.com/kachenchaney/ukkXII/assets/111231552/97371baa-f9d3-41d5-ad5a-5173979d05fe)
 
 
